@@ -1,1 +1,2 @@
 # Bloch-ball-dynamics
+"Exploring a nonlinear positive trace-preserving (PTP) channels model for generating Lorenz-butterfly-like attractors  within the Bloch ball.The existence of a chaotic attractor in the Lorenz model holds significant implications with numerous potential applications. It unveils diverse behaviors, particularly when considering random initial conditions. It is interesting to consider that chaotic attractors may also have applications in quantum technology".
